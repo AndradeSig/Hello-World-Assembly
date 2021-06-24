@@ -43,3 +43,6 @@ Pronto! Se não ter dado nenhum erro neste processo, você já poderá abrir o a
 Agora, no Terminal, aparecerá a seguinte saída: `Hello, World!`
 ####
 <img src="https://cdn.discordapp.com/attachments/837039667265142838/857641962412965908/unknown.png"/>
+<br/>
+<img src="https://cdn.discordapp.com/attachments/837039667265142838/857642000601317426/unknown.png"/>
+
