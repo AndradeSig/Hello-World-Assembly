@@ -14,7 +14,7 @@ Para compilar o programa, você deverá instalar o **NASM**
 Para instalar é bem simples. Se você estiver usando alguma Distro Linux baseada em Debian, é só fazer:
 <br/>
 ```
-sudo apt-get update y
+sudo apt-get update -y
 sudo apt-get install -y nasm
 ```
 ####
