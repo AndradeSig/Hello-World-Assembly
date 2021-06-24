@@ -17,7 +17,7 @@ Para instalar é bem simples. Se você estiver usando alguma Distro Linux basead
 sudo apt-get update y
 sudo apt-get install -y nasm
 ```
-<br/>
+####
 Quando você fizer isso, o **NASM** já vai estar instalado!
 ####
 Agora, sem muita enrrolação, vamos compilar o código!
