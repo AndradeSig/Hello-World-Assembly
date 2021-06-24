@@ -5,7 +5,7 @@ ASM
 -------
 Fiz este projeto para conhecer um pouco mais de Assembly. No projeto, explico detalhadamente o que cada coisa faz. Para quem não entende nada de Assembly
 <br/>
-é uma boa dar uma olhada. Lembrando, que estou no básico do básico de Assembly, não sei se a forma que eu fiz, é a melhor a ser aplicada.
+é uma boa dar umasdasda olhada. Lembrando, que estou no básico do básico de Assembly, não sei se a forma que eu fiz, é a melhor a ser aplicada.
 ####
 ***COMPILAÇÃO***
 <br/>
