@@ -27,17 +27,17 @@ Para compilar, abra o projeto no Terminal, e digite:
 ```
 nasm -f elf64 -g -F DWARF helloWorld.asm
 ```
-<br/>
+####
 Após isso, coloque:
 <br/>
 ```
 ld -e start -o helloWorld helloWorld.o
 ```
-<br/>
+####
 Pronto! Se não ter dado nenhum erro neste processo, você já poderá abrir o arquivo compilado
 <br/>
 ```
 ./helloWorld
 ```
-<br/>
+####
 Agora, no Terminal, aparecerá a seguinte saída: `hello, World!`
