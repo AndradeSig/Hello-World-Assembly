@@ -1,5 +1,5 @@
-# OpenGL-Study
-OpenGL
+# Assembly
+ASM
 ####
 📀 Hello World em Assembly 📀
 -------
