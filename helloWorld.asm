@@ -3,7 +3,7 @@ section .data              ; Aqui definimos a seção "Data", que definiremos o 
 
 msg: DB 'Hello, World!' , 10 ; Definir uma mensagem em DB( Definição em Byte ). Primeiro informamos o valor da String, e depois o tamanho que será mostrado, em Bytes
 msgSize EQU $ - msg        ; Primeiramente, declaro a variável "msgSize", que irá ler até o final da msg.
-                           ; Quando chear no final da msg, irá fazer a subtração do endereço onde a variável msg começou, e apenas deixar os bytes usados para a msg
+                           ; Quando chegar no final da msg, irá fazer a subtração do endereço onde a variável msg começou, e apenas deixar os bytes usados para a msg
 
 global start
 
