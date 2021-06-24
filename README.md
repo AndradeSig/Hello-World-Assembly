@@ -40,4 +40,6 @@ Pronto! Se não ter dado nenhum erro neste processo, você já poderá abrir o a
 ./helloWorld
 ```
 ####
-Agora, no Terminal, aparecerá a seguinte saída: `hello, World!`
+Agora, no Terminal, aparecerá a seguinte saída: `Hello, World!`
+####
+<img src="https://cdn.discordapp.com/attachments/786036965677858817/857641338916569108/unknown.png" width="10%" align"center">
